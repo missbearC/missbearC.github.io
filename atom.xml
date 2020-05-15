@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://missbearc.github.io/"/>
-  <updated>2020-05-15T04:37:25.067Z</updated>
+  <updated>2020-05-15T05:36:27.400Z</updated>
   <id>https://missbearc.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://missbearc.github.io/2020/05/15/ren-gong-zhi-neng-1/"/>
     <id>https://missbearc.github.io/2020/05/15/ren-gong-zhi-neng-1/</id>
     <published>2020-05-15T04:05:51.109Z</published>
-    <updated>2020-05-15T04:37:25.067Z</updated>
+    <updated>2020-05-15T05:36:27.400Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,12 @@
     </summary>
     
     
+      <category term="人工智能与机器学习" scheme="https://missbearc.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="人工智能" scheme="https://missbearc.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="python" scheme="https://missbearc.github.io/tags/python/"/>
     
   </entry>
   
